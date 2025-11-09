@@ -1,1 +1,8 @@
+1. Streamlit- it is open source python library that helps you turn your python code into a simple web app easily and quickly. We dont't need to know HTML, CSS and JavaScript.
+   streamlit gives you buttons,slides,text boxes etc. in a website without web deveplopment. We have to install it via "pip install streamlit".
 
+2.Langchain- It is an open source framework for building applications based on LLM's.
+3.PyPDF2- Helps us to read and manipulate pdf files.
+4.FAISS(Facebook AI semantic search)- It is a pwerful library to perfrom fast and efficient similarity search onn large collection of data, especially embeddings.
+  We can install it via "pip install faiss-cpu". Faiss-CPU version is made to run on systems without GPU. It works on CPU-only machines. It is a vector 
+  store to store embeddings and search based on similarity.   
